@@ -12,3 +12,34 @@ a {
   text-align: center;
   margin: 0;
 }
+
+a {
+  color: #3A247D;
+}
+
+header {
+  background: #3A247D;
+  border-color: aqua;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+nav {
+  background: #72A1D9;
+}
+
+nav a, nav a:visited {
+  color: #fff;
+}
+
+nav a.selected, nav a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #fff;
+  color: #999;
+}
